@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  MoxiLjieApp
+
+  Created by ljie on 2017/9/11.
+  Copyright © 2017年 AppleFish. All rights reserved.
+*/
+
+"新游戏"="New Game";
+"历史记录"="History";
+"帮助"="Help";
+
+"游戏胜利"="Win！";
+"继续游戏"="Continue";
+
+"游戏还在进行中，要退出么"="Game Still Going on,Exit?";
+"退出"="Exit";
+
+"游戏胜利用时"="Win Time";
+"时间"="Date";
+
+"重新开始"="Restart";
+"后退一步"="Back";
+
+"你还没有胜利的记录呐"="No record of victory yet";
